@@ -8,7 +8,7 @@ fn main() {
 }
 ```
 
-Not much to see here. Just try to appreciate how cool programming is. 
+Not much to see here. Just the art of code. 
 
 
 ###### Enjoy your day.
